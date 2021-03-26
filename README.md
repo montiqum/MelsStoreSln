@@ -27,3 +27,11 @@ https://www.apress.com/gp/book/9781484254394.
 ### :trident: Page Links
 
 ![Page Links Screenshot](https://github.com/montiqum/MelsStoreSln/blob/master/Part3.JPG)
+
+### :trident: Displaying Page Links
+
+![Displaying Page Links Screenshot](https://github.com/montiqum/MelsStoreSln/blob/master/Part4.JPG)
+
+### :trident: Improving URLs
+
+![Improving URLs Screenshot](https://github.com/montiqum/MelsStoreSln/blob/master/Part5.JPG)
