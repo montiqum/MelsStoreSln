@@ -18,4 +18,4 @@ https://www.apress.com/gp/book/9781484254394.
 
 ### Startup
 
-[Startup Screenshot](https://github.com/montiqum/MelsStoreSln/blob/master/Part1.JPG)
+![Startup Screenshot](https://github.com/montiqum/MelsStoreSln/blob/master/Part1.JPG)
