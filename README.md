@@ -14,3 +14,8 @@ https://www.apress.com/gp/book/9781484254394.
     dotnet new xunit -o MelsStoreSln/OutdoorProducts.Tests --framework net5.0
     dotnet sln MelsStoreSln add MelsStoreSln/OutdoorProducts.Tests 
     dotnet add MelsStoreSln/OutdoorProducts.Tests reference MelsStoreSln/OutdoorProducts
+
+
+### Startup
+
+[Startup Screenshot](https://github.com/montiqum/MelsStoreSln/blob/master/Part1.JPG)
