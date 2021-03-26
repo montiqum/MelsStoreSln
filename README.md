@@ -20,6 +20,10 @@ https://www.apress.com/gp/book/9781484254394.
 
 ![Startup Screenshot](https://github.com/montiqum/MelsStoreSln/blob/master/Part1.JPG)
 
-### Display a List
+### Display a List of Products
 
 ![List Screenshot](https://github.com/montiqum/MelsStoreSln/blob/master/Part2.JPG)
+
+### Page Links
+
+![Page Links Screenshot](https://github.com/montiqum/MelsStoreSln/blob/master/Part3.JPG)
