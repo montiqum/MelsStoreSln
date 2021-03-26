@@ -35,3 +35,8 @@ https://www.apress.com/gp/book/9781484254394.
 ### :trident: Improving URLs
 
 ![Improving URLs Screenshot](https://github.com/montiqum/MelsStoreSln/blob/master/Part5.JPG)
+
+
+### :trident: Using Bootstrap and Pagination
+
+![Bootstrap Screenshot](https://github.com/montiqum/MelsStoreSln/blob/master/Part6.JPG)
