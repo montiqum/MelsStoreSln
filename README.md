@@ -1,7 +1,7 @@
 # MelsStoreSln
 
 SportsStore: A Real Application
-The store in the demo is called "Mel's Store Solution." The product inventory will contain items typically found in outdoor, activity and gaming stores. This is a student exercise on building web applications from Adam Freeman's, 8th Edition Pro ASP.NET Core 3 available at the URL below:
+The store in the demo is called "Mel's Store Solution." The product inventory will contain items typically found in outdoor, activity and gaming stores. This is a student exercise on building web applications from Adam Freeman's, 8th Edition Pro ASP.NET Core 3 available at the URL:
 https://www.apress.com/gp/book/9781484254394.
 
 ### Creating the Projects and Solution
