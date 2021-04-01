@@ -72,15 +72,15 @@ Database seeding is the initial seeding of a database with data. Seeding a datab
 
 ### :trident: Layout
 
-![Layout Screenshot](https://github.com/montiqum/MelsStoreSln/blob/master/Images/Chap_8_Part_6.JPG)
+![Layout Screenshot](https://github.com/montiqum/MelsStoreSln/blob/master/Images/Chap%208%20Part%206.JPG)
 
 ### :trident: Add To Cart
 
-![Add To Cart Screenshot](https://github.com/montiqum/MelsStoreSln/blob/master/Images/Chap_8_Part_8.JPG)
+![Add To Cart Screenshot](https://github.com/montiqum/MelsStoreSln/blob/master/Images/Chap%208%20Part%208.JPG)
 
 
 ### :trident: Cart
 
-![Cart Screenshot](https://github.com/montiqum/MelsStoreSln/blob/master/Images/Chap_8_Shopping_Cart.JPG)
+![Cart Screenshot](https://github.com/montiqum/MelsStoreSln/blob/master/Images/Chap%208%20Shopping%20Cart.JPG)
 
 [Back To Top](https://github.com/montiqum/MelsStoreSln#melsstoresln)
