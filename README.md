@@ -88,4 +88,9 @@ Database seeding is the initial seeding of a database with data. Seeding a datab
 
 ![Cart Screenshot](https://github.com/montiqum/MelsStoreSln/blob/master/Images/Chap%208%20Shopping%20Cart.JPG)
 
+
+### :trident: Tests
+
+![Tests Screenshot](https://github.com/montiqum/MelsStoreSln/blob/master/Images/Tests.JPG)
+
 [Back To Top](https://github.com/montiqum/MelsStoreSln#melsstoresln)
