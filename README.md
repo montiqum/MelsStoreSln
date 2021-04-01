@@ -4,6 +4,8 @@ SportsStore: A Real Application
 The store in the demo is called "Mel's Store Solution." The product inventory will contain items typically found in outdoor, activity and gaming stores. This is a student exercise on building web applications from Adam Freeman's, 8th Edition Pro ASP.NET Core 3 available at the URL:
 https://www.apress.com/gp/book/9781484254394.
 
+## Chapter 7
+
 ### :trident: Creating the Projects and Solution
 
 
@@ -70,7 +72,10 @@ Database seeding is the initial seeding of a database with data. Seeding a datab
 
 ## Chapter 8
 
-### :trident: Layout
+### :trident: Filter
+![Filter Screenshot](https://github.com/montiqum/MelsStoreSln/blob/master/Images/Chap%208%20Part%202.JPG)
+
+### :trident: Highlight
 
 ![Layout Screenshot](https://github.com/montiqum/MelsStoreSln/blob/master/Images/Chap%208%20Part%206.JPG)
 
