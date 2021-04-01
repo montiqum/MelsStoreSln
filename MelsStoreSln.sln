@@ -1,11 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.26124.0
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
 MinimumVisualStudioVersion = 15.0.26124.0
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OutdoorProducts", "OutdoorProducts\OutdoorProducts.csproj", "{292B1672-32E8-4D41-BD01-F37929B80B84}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OutdoorProducts", "OutdoorProducts\OutdoorProducts.csproj", "{292B1672-32E8-4D41-BD01-F37929B80B84}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OutdoorProducts.Tests", "OutdoorProducts.Tests\OutdoorProducts.Tests.csproj", "{2143EB78-090C-4A90-AF98-20F97B29F403}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OutdoorProducts.Tests", "OutdoorProducts.Tests\OutdoorProducts.Tests.csproj", "{2143EB78-090C-4A90-AF98-20F97B29F403}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,9 +15,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 		Release|x64 = Release|x64
 		Release|x86 = Release|x86
-	EndGlobalSection
-	GlobalSection(SolutionProperties) = preSolution
-		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{292B1672-32E8-4D41-BD01-F37929B80B84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
@@ -44,5 +41,11 @@ Global
 		{2143EB78-090C-4A90-AF98-20F97B29F403}.Release|x64.Build.0 = Release|Any CPU
 		{2143EB78-090C-4A90-AF98-20F97B29F403}.Release|x86.ActiveCfg = Release|Any CPU
 		{2143EB78-090C-4A90-AF98-20F97B29F403}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9377A989-D3CD-4C05-95EA-EF1C9C2DEE70}
 	EndGlobalSection
 EndGlobal
