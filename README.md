@@ -18,28 +18,28 @@ https://www.apress.com/gp/book/9781484254394.
 
 ### :trident: Startup
 
-![Startup Screenshot](https://github.com/montiqum/MelsStoreSln/blob/master/Part1.JPG)
+![Startup Screenshot](https://github.com/montiqum/MelsStoreSln/blob/master/Images/Part1.JPG)
 
 ### :trident: Display a List of Products
 
-![List Screenshot](https://github.com/montiqum/MelsStoreSln/blob/master/Part2.JPG)
+![List Screenshot](https://github.com/montiqum/MelsStoreSln/blob/master/Images/Part2.JPG)
 
 ### :trident: Page Links
 
-![Page Links Screenshot](https://github.com/montiqum/MelsStoreSln/blob/master/Part3.JPG)
+![Page Links Screenshot](https://github.com/montiqum/MelsStoreSln/blob/master/Images/Part3.JPG)
 
 ### :trident: Displaying Page Links
 
-![Displaying Page Links Screenshot](https://github.com/montiqum/MelsStoreSln/blob/master/Part4.JPG)
+![Displaying Page Links Screenshot](https://github.com/montiqum/MelsStoreSln/blob/master/Images/Part4.JPG)
 
 ### :trident: Improving URLs
 
-![Improving URLs Screenshot](https://github.com/montiqum/MelsStoreSln/blob/master/Part5.JPG)
+![Improving URLs Screenshot](https://github.com/montiqum/MelsStoreSln/blob/master/Images/Part5.JPG)
 
 
 ### :trident: Using Bootstrap and Pagination
 
-![Bootstrap Screenshot](https://github.com/montiqum/MelsStoreSln/blob/master/Part6.JPG)
+![Bootstrap Screenshot](https://github.com/montiqum/MelsStoreSln/blob/master/Images/Part6.JPG)
 
 ****What is Entity Framework?****
 
@@ -66,3 +66,21 @@ Scaffolding is a technique used by many MVC frameworks like ASP.NET MVC, to gene
 ****Seeding the database****
 
 Database seeding is the initial seeding of a database with data. Seeding a database is a process in which an initial set of data is provided to a database when it is being installed. It is especially useful when we want to populate the database with data we want to develop in future.
+
+
+## Chapter 8
+
+### :trident: Layout
+
+![Layout Screenshot](https://github.com/montiqum/MelsStoreSln/blob/master/Images/Chap 8 Part 6.JPG)
+
+### :trident: Add To Cart
+
+![Add To Cart Screenshot](https://github.com/montiqum/MelsStoreSln/blob/master/Images/Chap 8 Part 8.JPG)
+
+
+### :trident: Cart
+
+![Cart Screenshot](https://github.com/montiqum/MelsStoreSln/blob/master/Images/Chap 8 Shopping Cart.JPG)
+
+[Back To Top](https://github.com/montiqum/MelsStoreSln#melsstoresln)
